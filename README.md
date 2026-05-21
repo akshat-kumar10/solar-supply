@@ -1,3 +1,4 @@
+
 # Solar Power Supply
 
 ## 1. Project Overview
@@ -28,6 +29,9 @@ The entire circuit and PCB were redesigned from scratch using **KiCad EDA**, whi
 - PCB layout files (`.kicad_pcb`)  
 - 3D render images  
 - Manufacturing-ready Gerber files  
+
+<img width="1121" height="714" alt="3D Model" src="https://github.com/user-attachments/assets/2ec556ba-81ef-43b8-847c-d41bcc03fe38" />
+
 
 ## 5. Disclaimer
 This project is intended **solely for learning and educational purposes**. It is not designed or validated for commercial or critical applications.
